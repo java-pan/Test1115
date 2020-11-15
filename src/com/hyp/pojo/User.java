@@ -6,4 +6,6 @@ package com.hyp.pojo;
  */
 public class User {
     private int age;
+    private int userage;
+
 }
